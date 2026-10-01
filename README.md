@@ -20,26 +20,11 @@ I am a **24-year-old Tunisian self-learner**, tech entrepreneur, and developer p
 
 ### 💻 Technologies & Skills
 
-#### 🚀 Frontend & 3D Web
-[![React](https://shields.io)](https://react.dev)
-[![Next.js](https://shields.io)](https://nextjs.org)
-[![Vue.js](https://shields.io)](https://vuejs.org)
-[![Three.js](https://shields.io)](https://threejs.org)
-
-#### 🌐 Core Web Languages
-[![JavaScript](https://shields.io)](https://mozilla.org)
-[![HTML5](https://shields.io)](https://mozilla.org)
-[![CSS3](https://shields.io)](https://mozilla.org)
-
-#### ⚙️ Backend & Infrastructure
-[![Node.js](https://shields.io)](https://nodejs.org)
-[![IBM Cloud](https://shields.io)](https://ibm.com)
-[![MySQL](https://shields.io)](https://mysql.com)
-
-#### 🛡️ Cybersecurity & Intelligence
-[![Cisco](https://shields.io)](https://cisco.com)
-[![Kali Linux](https://shields.io)](https://kali.org)
-[![Generative AI](https://shields.io)](https://openai.com)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="My Skills Grid" />
+  </a>
+</p>
 
 ---
 
