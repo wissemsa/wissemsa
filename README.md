@@ -9,7 +9,7 @@
 </h1>
 
 ---
-  Hi, I’m Wissem 👋
+   Hi, I’m Wissem 👋
 ### 🚀 About Me
 
 I am a **24-year-old Tunisian self-learner**, tech entrepreneur, and developer passionate about building immersive digital experiences and securing them. As the Founder of **@egoos BRANDING AGENCY**, I bridge the gap between creative branding, advanced web development, and cybersecurity.
@@ -22,31 +22,26 @@ I am a **24-year-old Tunisian self-learner**, tech entrepreneur, and developer p
 
 ### 💻 Technologies & Skills
 
-<p align="left">
-  <!-- Modern Frontend Frameworks -->
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="Vue.js" />
-  <img src="https://shields.io" alt="Three.js" />
-  
-  <!-- Core Web Tins -->
-  <br>
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  
-  <!-- Backend & Infrastructure -->
-  <br>
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="IBM" />
-  <img src="https://shields.io" alt="MySQL" />
-  
-  <!-- Cybersecurity & Intelligence -->
-  <br>
-  <img src="https://shields.io" alt="Cisco" />
-  <img src="https://shields.io" alt="Kali Linux" />
-  <img src="https://shields.io" alt="Generative AI" />
-</p>
+#### 🚀 Frontend & 3D Web
+![React](https://shields.io)
+![Next.js](https://shields.io)
+![Vue.js](https://shields.io)
+![Three.js](https://shields.io)
+
+#### 🌐 Core Web Languages
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+#### ⚙️ Backend & Infrastructure
+![Node.js](https://shields.io)
+![IBM Cloud](https://shields.io)
+![MySQL](https://shields.io)
+
+#### 🛡️ Cybersecurity & Intelligence
+![Cisco](https://shields.io)
+![Kali Linux](https://shields.io)
+![Generative AI](https://shields.io)
 
 ---
 
