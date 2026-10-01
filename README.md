@@ -20,11 +20,17 @@ I am a **24-year-old Tunisian self-learner**, tech entrepreneur, and developer p
 
 ### 💻 Technologies & Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="My Skills Grid" />
-  </a>
-</p>
+#### 🚀 Frontend & 3D Web
+<img src="https://skillicons.dev" alt="React" height="40" /> <img src="https://skillicons.dev" alt="Next.js" height="40" /> <img src="https://skillicons.dev" alt="Vue.js" height="40" /> <img src="https://skillicons.dev" alt="Three.js" height="40" />
+
+#### 🌐 Core Web Languages
+<img src="https://skillicons.dev" alt="JavaScript" height="40" /> <img src="https://skillicons.dev" alt="HTML5" height="40" /> <img src="https://skillicons.dev" alt="CSS3" height="40" />
+
+#### ⚙️ Backend & Infrastructure
+<img src="https://skillicons.dev" alt="Node.js" height="40" /> <img src="https://skillicons.dev" alt="MySQL" height="40" />
+
+#### 🛡️ Cybersecurity & Intelligence
+<img src="https://skillicons.dev" alt="Kali Linux" height="40" /> <img src="https://skillicons.dev" alt="Generative AI" height="40" />
 
 ---
 
