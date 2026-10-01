@@ -9,7 +9,7 @@
 </h1>
 
 ---
-
+  Hi, I’m Wissem 👋
 ### 🚀 About Me
 
 I am a **24-year-old Tunisian self-learner**, tech entrepreneur, and developer passionate about building immersive digital experiences and securing them. As the Founder of **@egoos BRANDING AGENCY**, I bridge the gap between creative branding, advanced web development, and cybersecurity.
@@ -23,19 +23,29 @@ I am a **24-year-old Tunisian self-learner**, tech entrepreneur, and developer p
 ### 💻 Technologies & Skills
 
 <p align="left">
-  <!-- Frontend & 3D -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <!-- Modern Frontend Frameworks -->
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="Vue.js" />
+  <img src="https://shields.io" alt="Three.js" />
   
-  <!-- Backend & Database -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <!-- Core Web Tins -->
+  <br>
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
   
-  <!-- Cyber & AI -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <!-- Backend & Infrastructure -->
+  <br>
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="IBM" />
+  <img src="https://shields.io" alt="MySQL" />
+  
+  <!-- Cybersecurity & Intelligence -->
+  <br>
+  <img src="https://shields.io" alt="Cisco" />
+  <img src="https://shields.io" alt="Kali Linux" />
+  <img src="https://shields.io" alt="Generative AI" />
 </p>
 
 ---
@@ -56,7 +66,11 @@ I am a **24-year-old Tunisian self-learner**, tech entrepreneur, and developer p
 ---
 
 <p align="center">
-  🌐 <b>Connect with me:</b> 
+  📸 <b>Let's Connect</b>
+  <br>
+  <i>For business inquiries or collaborations, reach out exclusively via Instagram:</i>
   <br><br>
-  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram @wess_sa" />
+  </a>
 </p>
