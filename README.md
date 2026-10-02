@@ -19,16 +19,16 @@
 
 ## `> whoami`
 
-```ts
-const wissem = {
-  role:      ["SaaS Developer", "3D Web Animator", "Junior Penetration Tester"],
-  founder:   "@egoos — Branding Agency",
-  origin:    "Tunisia 🇹🇳",
-  learning:  "Self-taught. Always shipping, always studying.",
-  obsession: ["Immersive 3D experiences", "Secure-by-design products", "Brands that feel alive"],
-  currently: "Getting started with Generative AI (IBM)",
-};
-```
+| | |
+|:--|:--|
+| 👤 **Role** | SaaS Developer • 3D Web Animator • Junior Penetration Tester |
+| 🏢 **Founder** | **@egoos**, Branding Agency |
+| 📍 **From** | Tunisia 🇹🇳 |
+| 🎓 **Path** | Self-taught. Always shipping, always studying. |
+| 🔥 **Obsessed with** | Immersive 3D experiences • Secure-by-design products • Brands that feel alive |
+| 🤖 **Currently** | Getting started with Generative AI (IBM) |
+
+<br/>
 
 I turn ideas into **interactive, animated, secure** web products. I design the brand, build the experience, and test it like an attacker would.
 
@@ -78,6 +78,9 @@ Security-minded builds, tested before they ever reach production.
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4fc08d)
+![Nuxt](https://img.shields.io/badge/Nuxt-0d1117?style=for-the-badge&logo=nuxtdotjs&logoColor=00dc82)
 ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88ce02)
 ![Responsive](https://img.shields.io/badge/Responsive_Design-0d1117?style=for-the-badge&logo=responsivedesign&logoColor=00f5d4)
@@ -138,10 +141,9 @@ Security-minded builds, tested before they ever reach production.
 
 <div align="center">
 
-[![Agency](https://img.shields.io/badge/@egoos-Agency-0d1117?style=for-the-badge&logo=rocket&logoColor=00f5d4&labelColor=0d1117&color=00f5d4)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0d1117&color=0a66c2)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=ea4335)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117&color=7c3aed)](https://YOUR_WEBSITE.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=ea4335)](mailto:wissemsaid6000@gmail.com)
+[![egoos Website](https://img.shields.io/badge/egoos_Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f5d4&labelColor=0d1117&color=00f5d4)](https://egoos.framer.website/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=0d1117&color=e4405f)](https://instagram.com/wess_said)
 
 <br/>
 
